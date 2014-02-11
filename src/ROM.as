@@ -4,6 +4,7 @@
 //play a sound by calling FlxG.play(Mp3CollectOrWhateverTheNameIs);
 
 package {
+<<<<<<< HEAD
 	//import com.teamcrunch.*;
 	
 	public class ROM {
@@ -12,7 +13,6 @@ package {
 		
 		//images
 		[Embed(source="assets/baldy.jpg")] static public const ImgEliot: Class;
-
 		
 		//sounds
 		[Embed(source="assets/pit.mp3")] static public const Mp3KeySound: Class;

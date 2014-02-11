@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 //this is where the main game logic goes
 
+=======
+>>>>>>> dc4c4cf59751cbdef200d64f4d5cbe4cfd7e3d18
 package
 {
 	import org.flixel.*;
@@ -125,7 +128,6 @@ package
 			_block.loadGraphic(ROM.ImgEliot);
 			_block.maxVelocity.y = 150;
 			_block.acceleration.y = 150;
-//			_block.width = 5;
 			_block.drag.x = 20;
 			_block.drag.y = 20;
 			add(_block);
